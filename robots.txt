@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+
+Sitemap: https://www.ymeclear.com/sitemap.xml
+
+# Empêcher l'indexation des fichiers sensibles
+Disallow: /.htaccess
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /vendor/ 

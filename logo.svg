@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <!-- Cercle de fond -->
+    <circle cx="100" cy="100" r="90" fill="#4CAF50" opacity="0.1"/>
+    
+    <!-- Lettre Y stylisée -->
+    <path d="M60 40 L100 100 L140 40 L120 40 L100 80 L80 40 Z" fill="#4CAF50"/>
+    
+    <!-- Lettre C stylisée -->
+    <path d="M100 120 C 70 120, 60 140, 60 160 C 60 180, 80 180, 100 180 C 120 180, 140 160, 140 160" 
+          stroke="#4CAF50" 
+          stroke-width="12" 
+          fill="none" 
+          stroke-linecap="round"/>
+    
+    <!-- Effet de brillance -->
+    <circle cx="70" cy="70" r="5" fill="white" opacity="0.3"/>
+</svg> 
